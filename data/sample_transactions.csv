@@ -1,0 +1,16 @@
+id,user_id,event_type,amount,region,category,event_time
+1,user_001,purchase,120.50,us-east,electronics,2026-01-01 10:00:00
+2,user_002,purchase,45.00,us-west,clothing,2026-01-01 10:05:00
+3,user_003,refund,-30.00,eu-central,clothing,2026-01-01 10:10:00
+4,user_001,purchase,200.00,us-east,electronics,2026-01-01 10:15:00
+5,user_004,purchase,15.99,ap-south,food,2026-01-01 10:20:00
+6,user_002,purchase,89.99,us-west,electronics,2026-01-01 10:25:00
+7,user_005,purchase,5000.00,us-east,electronics,2026-01-01 10:30:00
+8,user_003,purchase,60.00,eu-central,food,2026-01-01 10:35:00
+9,user_006,purchase,110.00,us-east,clothing,2026-01-01 10:40:00
+10,user_004,refund,-15.99,ap-south,food,2026-01-01 10:45:00
+11,user_007,purchase,300.00,us-west,electronics,2026-01-01 11:00:00
+12,user_008,purchase,22.50,eu-central,food,2026-01-01 11:05:00
+13,user_001,purchase,180.00,us-east,electronics,2026-01-01 11:10:00
+14,user_009,purchase,75.00,ap-south,clothing,2026-01-01 11:15:00
+15,user_010,purchase,9999.99,us-west,electronics,2026-01-01 11:20:00
